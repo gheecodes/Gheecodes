@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gheecodes
-- 👀 I’m interested in building server side applications
-- 🌱 I’m currently learning Nest Js, Typescript and Express Js
+- 👀 I’m interested in building server side applications for the backend
+- 🌱 I’m currently learning and working with Nest Js, Typescript and Express Js
 - 💞️ I’m looking to collaborate on projects 
 
 
