@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Gheecodes
-- 👀 I’m interested in building server side applications for the backend
-- 🌱 I’m currently learning and working with Nest Js, Typescript and Express Js
-- 💞️ I’m looking to collaborate on projects 
+- 👋 Hi, I’m Gloria Samuel
+- 👀 I’m a 17year old backend developer and technical writer
+- 🌱 Open Source Contributor
+- 🌱 I'm currently working with Nest Js, Typescript and Express Js
+- 💞️ I’m looking to collaborate on projects using NodeJs, React Js.
 
 
 <!---
