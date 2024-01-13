@@ -2,7 +2,8 @@
 - 👀 I’m a 17year old backend developer and technical writer
 - 🌱 Open Source Contributor
 - 🌱 I'm currently working with Nest Js, Typescript and Express Js
-- 💞️ I’m looking to collaborate on projects using NodeJs, React Js.
+- 🌱 Currently learning React Js,Cyber security and web 3(suprisng how i'm able to take all at the same time)
+- 💞️ I’m looking to collaborate on projects
 
 
 <!---
