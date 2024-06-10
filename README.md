@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gloria Samuel
 - 👀 I’m a 17year old budding cyber security engineer and technical writer
 - 🌱 Open Source Contributor
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to collaborate on projects and other activitiea
 
 
 <!---
