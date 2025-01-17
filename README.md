@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gloria Samuel nicknamed Gheecodes
+- 👋 Hi,I'm Gheecodes
 - 👀 I’m an 18year old budding cyber security engineer and technical writer
 - 🌱 Open Source Contributor
 - 💞️ I’m looking forward to collaborate on projects and other activitiea
