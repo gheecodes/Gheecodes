@@ -1,7 +1,9 @@
-- 👋 Hi,I'm Gheecodes
-- 👀 I’m an 18year old budding cyber security engineer and technical writer
-- 🌱 Open Source Contributor
-- 💞️ I’m looking forward to collaborate on projects and other activitiea
+- 👋 Hi,I'm Ria
+- 👀 Future Cybersecurity engineer
+- ✨ Python Coder | Technical Writer
+- 🌱 Currently learning: Cybersecurity basics & Python projects
+- 💞️ I’m looking forward to collaborate on projects and other activities
+- 💞️ Fun fact: I love soft aesthetics, and personal growth!
 
 
 <!---
