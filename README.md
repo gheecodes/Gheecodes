@@ -1,9 +1,9 @@
 - 👋 Hi,I'm Ria
-- 👀 Future Cybersecurity engineer
-- ✨ Python Coder | Technical Writer
+- 🌍 Future Cybersecurity engineer
+- 👩‍💻 Python Coder | Technical Writer
 - 🌱 Currently learning: Cybersecurity basics & Python projects
 - 💞️ I’m looking forward to collaborate on projects and other activities
-- 💞️ Fun fact: I love soft aesthetics, and personal growth!
+- 🤍 Fun fact: I love soft aesthetics, and personal growth!
 
 
 <!---
